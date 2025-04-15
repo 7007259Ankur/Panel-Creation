@@ -1,0 +1,131 @@
+Roll_No,Name,Project_Title,Project_Keywords,Professor_Name,Research_Areas,Panels
+1801147,Sachin Kumar,Image Processing for Medical Analysis,"Medical Imaging,Deep Learning,CNN",Moumita Roy,"Machine Learning, Deep Learning for Image/Signal Analysis",Panel-4
+2101039,Ankur Jaipuria,ML for Pattern Recognition,"Pattern Recognition,Deep Learning,Neural Networks",Parashjyoti Borah,"Machine Learning Algorithms, Deep Learning Applications",Panel-4
+2201001,Abhijeet kumar,Smart Grid Optimization,"Smart Grid,Optimization,ML",Nilotpal Chakraborty,"Smart Grid Optimization, UAVs, AI & Blockchain for Cyber-Physical Systems, Quantum Annealing, Digital Twins",Panel-2
+2201002,Abhijeet Raj,Electric Vehicle Charging Optimization,"EV,Smart Grid,Scheduling",Nilotpal Chakraborty,"Smart Grid Optimization, UAVs, AI & Blockchain for Cyber-Physical Systems, Quantum Annealing, Digital Twins",Panel-2
+2201003,Abhinaba Ghoshal,Secure IoT Framework,"IoT,Security,Software Engineering",Angshuman Jana,"Software Engineering, Software Security, IoT Security, Deep Learning, Blockchain, Application Development (Web/App)",Panel-2
+2201004,ABHINAV KUMAR,Deep Learning for Pattern Analysis,"Deep Learning,Pattern Recognition,ML",Parashjyoti Borah,"Machine Learning Algorithms, Deep Learning Applications",Panel-4
+2201005,Abhinav Pangaria,Cloud-Based Service Architecture,"Cloud Computing,Microservices,DevOps",Shubha Brata Nath,"Cloud Computing, Fog Computing, IoT, Serverless Computing, Application Development",Panel-1
+2201012,Aditya Kumar,High Performance ML Systems,"HPC,Machine Learning,Optimization",Manojit Ghose,"ML-Based Application Development, High-Performance Computing",Panel-3
+2201013,ADITYA SRIVASTAVA,Social Network Analysis Tools,"Social Networks,Graph Analysis,ML",Rohit Tripathi,"Social Network Analysis, Application Development",Panel-6
+2201016,Aditya Ranjan,Memory System Optimization,"Computer Architecture,Memory Systems",Arijit Nath,"Computer Architecture, Emerging Memory Technologies, Memory System Design",Panel-3
+2201017,Ahlad Pataparla,ML-Based Document Processing,"Document Analysis,NLP,ML",Kaustuv Nag,"Machine Learning, Deep Learning, Computational Intelligence, Android App Dev, Text Summarization, Web Dev, Language Translation",Panel-5
+2201019,Akshat Somvanshi,Network Optimization Framework,"Networks,SDN,Optimization",Radhika Sukapuram,"Optimization & ML in Networks, Mobile Edge Computing, Network Function Virtualization, SDN",Panel-1
+2201021,Amir Suhail,Real-Time Task Scheduler,"Scheduling,Real-Time Systems",Sanjay Moulik,Scheduling Algorithms for Real-Time Systems,Panel-3
+2201024,Animesh Kumar,Embedded Systems Scheduling,"Real-Time Systems,Embedded Systems",Sanjay Moulik,Scheduling Algorithms for Real-Time Systems,Panel-3
+2201025,Anisha Maan,Computer Architecture Simulator,"Computer Architecture,Performance",Arijit Nath,"Computer Architecture, Emerging Memory Technologies, Memory System Design",Panel-3
+2201028,Ankur Gupta,SmartCollab: AI-Based Matching System,"NLP,ML,Academic Collaboration",Subhasish Dhal,"Deep Learning, Information Security, Blockchain, Brain-Computer Interface, Quantum Cryptography, Application Development",Panel-2
+2201029,ANKUR SRIVASTAVA,Memory Technologies Research,"Memory Systems,Computer Architecture",Arijit Nath,"Computer Architecture, Emerging Memory Technologies, Memory System Design",Panel-3
+2201030,Anushka Srivastava,Storage System Optimization,"Storage Systems,Performance",Gautam Barua,"Storage Systems, ML in CPU Scheduling, DBMS Systems",Panel-6
+2201033,Arya Sahu,AI Document Processing System,"NLP,Document Analysis,ML",Kaustuv Nag,"Machine Learning, Deep Learning, Computational Intelligence, Android App Dev, Text Summarization, Web Dev, Language Translation",Panel-5
+2201034,Aryan Choudhari,UAV Communication Networks,"UAV,Wireless Networks,AI",Krishnandu Hazra,"Wireless Networks, UAV Communications, AI & Deep Learning, Natural Language Processing",Panel-2
+2201036,Aryan Gupta,Real-Time System Monitor,"Real-Time Systems,Monitoring",Sanjay Moulik,Scheduling Algorithms for Real-Time Systems,Panel-3
+2201038,Ashika Jain,Medical Image Processing,"Image Analysis,Deep Learning",Moumita Roy,"Machine Learning, Deep Learning for Image/Signal Analysis",Panel-4
+2201039,Ashish Ranjan Kumar,Serverless Computing Platform,"Cloud Computing,Serverless",Shubha Brata Nath,"Cloud Computing, Fog Computing, IoT, Serverless Computing, Application Development",Panel-1
+2201040,Ashutosh Kumar,IoT-Cloud Integration Framework,"IoT,Cloud Computing",Shubha Brata Nath,"Cloud Computing, Fog Computing, IoT, Serverless Computing, Application Development",Panel-1
+2201042,Ayush Aswal,Privacy-Preserving ML,"Machine Learning,Privacy,Security",Ferdous A Barbhuiya,"Security in Cloud & IoT, Privacy-Preserving ML, Computer Vision, ML Applications in NLP/CV",Panel-6
+2201046,Baharul Islam,Computer Vision for IoT,"Computer Vision,IoT,ML",Ferdous A Barbhuiya,"Security in Cloud & IoT, Privacy-Preserving ML, Computer Vision, ML Applications in NLP/CV",Panel-6
+2201048,Baratam Nitin,Blockchain IoT Security,"Blockchain,IoT,Security",Angshuman Jana,"Software Engineering, Software Security, IoT Security, Deep Learning, Blockchain, Application Development (Web/App)",Panel-2
+2201050,Bhagya Priya Murmu,IoT Security Analysis,"IoT,Security,ML",Rakesh Matam,"IoT, IoT Security, Security of ML Systems, Application Development",Panel-1
+2201052,BIBHAB DASGUPTA,Privacy in Cloud Computing,"Cloud Security,Privacy",Ferdous A Barbhuiya,"Security in Cloud & IoT, Privacy-Preserving ML, Computer Vision, ML Applications in NLP/CV",Panel-6
+2201057,CHANDAN KUMAR,Computer Vision Applications,"Computer Vision,Image Processing",Nilkanta Sahu,"Computer Vision, Image Processing, Application Development",Panel-5
+2201059,Chavan nikitha,Knowledge Representation System,"Knowledge Representation,AI",Upasana Talukdar,"Machine Learning, Brain-Computer Interface, Knowledge Representation & Reasoning",Panel-5
+2201060,chirag shrimal,Image Processing Pipeline,"Image Processing,Computer Vision",Nilkanta Sahu,"Computer Vision, Image Processing, Application Development",Panel-5
+2201061,Deepak Kumar,UAV-Based Smart Grid,"UAV,Smart Grid,AI",Nilotpal Chakraborty,"Smart Grid Optimization, UAVs, AI & Blockchain for Cyber-Physical Systems, Quantum Annealing, Digital Twins",Panel-2
+2201062,Deepanika Gupta,Network Optimization System,"Networks,SDN,Optimization",Radhika Sukapuram,"Optimization & ML in Networks, Mobile Edge Computing, Network Function Virtualization, SDN",Panel-1
+2201067,Dipanshu Rai,Computer Vision Framework,"Computer Vision,Image Processing",Nilkanta Sahu,"Computer Vision, Image Processing, Application Development",Panel-5
+2201068,Divyanshu Vyas,Serverless Computing System,"Cloud Computing,Serverless",Shubha Brata Nath,"Cloud Computing, Fog Computing, IoT, Serverless Computing, Application Development",Panel-1
+2201070,Divyraj Saini,High Performance Computing,"HPC,Parallel Computing",Manojit Ghose,"ML-Based Application Development, High-Performance Computing",Panel-3
+2201072,Ezekiel tEP,UAV Network Protocols,"UAV,Networks,Communication",Krishnandu Hazra,"Wireless Networks, UAV Communications, AI & Deep Learning, Natural Language Processing",Panel-2
+2201073,Faraz Zaman,Privacy-Preserving Vision,"Computer Vision,Privacy,ML",Ferdous A Barbhuiya,"Security in Cloud & IoT, Privacy-Preserving ML, Computer Vision, ML Applications in NLP/CV",Panel-6
+2201085,HARINARAYAN,Deep Learning Applications,"Deep Learning,ML,Pattern Recognition",Parashjyoti Borah,"Machine Learning Algorithms, Deep Learning Applications",Panel-4
+2201086,Harsh Choudhary,IoT Security Systems,"IoT,Security,ML",Rakesh Matam,"IoT, IoT Security, Security of ML Systems, Application Development",Panel-1
+2201088,Harsh Raj,Social Network Analytics,"Social Networks,Graph Analysis",Rohit Tripathi,"Social Network Analysis, Application Development",Panel-6
+2201089,Harshal borse,Signal Processing System,"Signal Processing,ML",Moumita Roy,"Machine Learning, Deep Learning for Image/Signal Analysis",Panel-4
+2201096,Hrishita Kishore,Secure Software Development,"Software Security,Engineering",Angshuman Jana,"Software Engineering, Software Security, IoT Security, Deep Learning, Blockchain, Application Development (Web/App)",Panel-2
+2201097,Ishaan Das,Real-Time System Design,"Real-Time Systems,Scheduling",Sanjay Moulik,Scheduling Algorithms for Real-Time Systems,Panel-3
+2201099,Jaswindar Singh Gill,Storage Systems Research,"Storage Systems,Performance",Gautam Barua,"Storage Systems, ML in CPU Scheduling, DBMS Systems",Panel-6
+2201102,kappish,Social Media Analysis,"Social Networks,Data Analysis",Rohit Tripathi,"Social Network Analysis, Application Development",Panel-6
+2201103,Kartik Saini,Network Optimization Tools,"Networks,SDN,Optimization",Radhika Sukapuram,"Optimization & ML in Networks, Mobile Edge Computing, Network Function Virtualization, SDN",Panel-1
+2201104,Kartik Sehgal,Algorithm Optimization,"Algorithms,Graph Theory",Pawan K. Mishra,"Algorithms, Geometry, Graph Theory, Approximation Algorithms",Panel-3
+2201105,Kashish Ahuja,Image Analysis System,"Image Processing,Deep Learning",Moumita Roy,"Machine Learning, Deep Learning for Image/Signal Analysis",Panel-4
+2201106,Keahav Jindal,IoT Security Framework,"IoT,Security,Systems",Rakesh Matam,"IoT, IoT Security, Security of ML Systems, Application Development",Panel-1
+2201107,Khadka Bahadur Baniya,Electric Vehicle Networks,"Smart Grid,EV,Networks",Nilotpal Chakraborty,"Smart Grid Optimization, UAVs, AI & Blockchain for Cyber-Physical Systems, Quantum Annealing, Digital Twins",Panel-2
+2201108,Khushi Mandal,Signal Analysis ML,"Signal Processing,ML",Moumita Roy,"Machine Learning, Deep Learning for Image/Signal Analysis",Panel-4
+2201109,KOLLIPARA SAI SURYA NARAYANA,HPC System Design,"HPC,System Architecture",Manojit Ghose,"ML-Based Application Development, High-Performance Computing",Panel-3
+2201112,Krish Kahnani,Document Processing AI,"NLP,Document Analysis",Ferdous A Barbhuiya,"Security in Cloud & IoT, Privacy-Preserving ML, Computer Vision, ML Applications in NLP/CV",Panel-6
+2201112,KRISH KAHNANI,ML Applications Development,"Machine Learning,Applications",Kaustuv Nag,"Machine Learning, Deep Learning, Computational Intelligence, Android App Dev, Text Summarization, Web Dev, Language Translation",Panel-5
+2201113,Krishna kumar,Knowledge-Based Systems,"Knowledge Representation,AI",Upasana Talukdar,"Machine Learning, Brain-Computer Interface, Knowledge Representation & Reasoning",Panel-5
+2201115,Kunsh Taneja,Network Optimization Research,"Networks,Optimization,SDN",Radhika Sukapuram,"Optimization & ML in Networks, Mobile Edge Computing, Network Function Virtualization, SDN",Panel-1
+2201117,Madhuboni Basu,IoT Security Analysis,"IoT,Security,Systems",Rakesh Matam,"IoT, IoT Security, Security of ML Systems, Application Development",Panel-1
+2201118,Madhur Jain,ML Healthcare Applications,"ML,Healthcare,AI",Debashree Devi,"Machine Learning, AI, Class Imbalance, Deep Learning for COVID-19 Detection, ML-based Drug Discovery",Panel-4
+2201119,MANIK KUMAR SANGAL,HPC Applications,"HPC,Applications,Computing",Manojit Ghose,"ML-Based Application Development, High-Performance Computing",Panel-3
+2201120,Mansha,ML Drug Discovery,"ML,Healthcare,Drug Discovery",Debashree Devi,"Machine Learning, AI, Class Imbalance, Deep Learning for COVID-19 Detection, ML-based Drug Discovery",Panel-4
+2201121,Manya Maheshwari,IoT Security Framework,"IoT,Security,ML",Rakesh Matam,"IoT, IoT Security, Security of ML Systems, Application Development",Panel-1
+2201122,Manya Mittal,NLP Applications,"NLP,Deep Learning",Krishnandu Hazra,"Wireless Networks, UAV Communications, AI & Deep Learning, Natural Language Processing",Panel-2
+2201124,Md Niyaz Asghar,Social Network Platform,"Social Networks,Web Development",Rohit Tripathi,"Social Network Analysis, Application Development",Panel-6
+2201126,Mukund Agrawal,Algorithm Implementation,"Algorithms,Graph Theory",Pawan K. Mishra,"Algorithms, Geometry, Graph Theory, Approximation Algorithms",Panel-3
+2201128,Nandini Modi,ML Healthcare System,"ML,Healthcare,AI",Debashree Devi,"Machine Learning, AI, Class Imbalance, Deep Learning for COVID-19 Detection, ML-based Drug Discovery",Panel-4
+2201129,Nehal jain,Blockchain Applications,"Blockchain,Security",Subhasish Dhal,"Deep Learning, Information Security, Blockchain, Brain-Computer Interface, Quantum Cryptography, Application Development",Panel-2
+2201130,N. Divyagnan Reddy,Knowledge Systems,"Knowledge Representation,AI",Upasana Talukdar,"Machine Learning, Brain-Computer Interface, Knowledge Representation & Reasoning",Panel-5
+2201133,NITIN KUMAR,UAV Communication System,"UAV,Networks,Communication",Krishnandu Hazra,"Wireless Networks, UAV Communications, AI & Deep Learning, Natural Language Processing",Panel-2
+2201134,NOTI HEMANTH REDDY,Knowledge Processing,"Knowledge Systems,AI",Upasana Talukdar,"Machine Learning, Brain-Computer Interface, Knowledge Representation & Reasoning",Panel-5
+2201135,Pallav Kumar,Cloud Computing Platform,"Cloud Computing,Systems",Shubha Brata Nath,"Cloud Computing, Fog Computing, IoT, Serverless Computing, Application Development",Panel-1
+2201136,Pankaj Mirdha,Algorithm Analysis,"Algorithms,Graph Theory",Pawan K. Mishra,"Algorithms, Geometry, Graph Theory, Approximation Algorithms",Panel-3
+2201138,Parmar Atul Gopal,Social Media Analytics,"Social Networks,Analytics",Rohit Tripathi,"Social Network Analysis, Application Development",Panel-6
+2201139,Parmar Nileshbhai Ashvinbhai,UAV Network Design,"UAV,Networks,Communication",Krishnandu Hazra,"Wireless Networks, UAV Communications, AI & Deep Learning, Natural Language Processing",Panel-2
+2201141,Patil Pratham Balbhim,ML Algorithm Development,"ML,Algorithms,AI",Parashjyoti Borah,"Machine Learning Algorithms, Deep Learning Applications",Panel-4
+2201143,Piyush Upadhyay,ML Healthcare Platform,"ML,Healthcare,AI",Debashree Devi,"Machine Learning, AI, Class Imbalance, Deep Learning for COVID-19 Detection, ML-based Drug Discovery",Panel-4
+2201149,Pratik Suman Surin,Cloud Service Platform,"Cloud Computing,Services",Shubha Brata Nath,"Cloud Computing, Fog Computing, IoT, Serverless Computing, Application Development",Panel-1
+2201150,Prince Kumar,ML Medical Diagnosis,"ML,Healthcare,Diagnosis",Debashree Devi,"Machine Learning, AI, Class Imbalance, Deep Learning for COVID-19 Detection, ML-based Drug Discovery",Panel-4
+2201151,Priyanka Kalita,Deep Learning System,"Deep Learning,ML",Parashjyoti Borah,"Machine Learning Algorithms, Deep Learning Applications",Panel-4
+2201152,Priyanshu,Social Network Analysis,"Social Networks,Analysis",Rohit Tripathi,"Social Network Analysis, Application Development",Panel-6
+2201153,Priyanshu Bajpai,Signal Processing ML,"Signal Processing,ML",Moumita Roy,"Machine Learning, Deep Learning for Image/Signal Analysis",Panel-4
+2201155,Priyanshu Kumar,UAV Communication Platform,"UAV,Networks,Communication",Krishnandu Hazra,"Wireless Networks, UAV Communications, AI & Deep Learning, Natural Language Processing",Panel-2
+2201156,PUSHPENDRA DANGI,Smart Grid System,"Smart Grid,Power Systems",Nilotpal Chakraborty,"Smart Grid Optimization, UAVs, AI & Blockchain for Cyber-Physical Systems, Quantum Annealing, Digital Twins",Panel-2
+2201163,Reet jirety,HPC System Analysis,"HPC,Systems,Analysis",Manojit Ghose,"ML-Based Application Development, High-Performance Computing",Panel-3
+2201164,Riddhi Mandal,Deep Learning Framework,"Deep Learning,ML",Parashjyoti Borah,"Machine Learning Algorithms, Deep Learning Applications",Panel-4
+2201165,Ritik Kumar Singh,Real-Time Systems,"Real-Time,Systems",Sanjay Moulik,Scheduling Algorithms for Real-Time Systems,Panel-3
+2201166,RITIK RAJ,Smart Grid Analysis,"Smart Grid,Analysis",Nilotpal Chakraborty,"Smart Grid Optimization, UAVs, AI & Blockchain for Cyber-Physical Systems, Quantum Annealing, Digital Twins",Panel-2
+2201168,Rohan M Patil,ML Document Analysis,"ML,Document Processing",Kaustuv Nag,"Machine Learning, Deep Learning, Computational Intelligence, Android App Dev, Text Summarization, Web Dev, Language Translation",Panel-5
+2201169,Rongali Chetana Priya,Memory System Design,"Memory Systems,Architecture",Arijit Nath,"Computer Architecture, Emerging Memory Technologies, Memory System Design",Panel-3
+2201170,Rudra Garg,Cloud Computing System,"Cloud Computing,Systems",Shubha Brata Nath,"Cloud Computing, Fog Computing, IoT, Serverless Computing, Application Development",Panel-1
+2201171,Sagnik Paira,Algorithm Optimization Studies,"Algorithms,Graph Theory,Optimization",Pawan K. Mishra,"Algorithms, Geometry, Graph Theory, Approximation Algorithms",Panel-3
+2201172,SAHIL KUMAR BARMAN,ML in Healthcare Applications,"Healthcare,ML,AI",Debashree Devi,"Machine Learning, AI, Class Imbalance, Deep Learning for COVID-19 Detection, ML-based Drug Discovery",Panel-4
+2201173,Sai Arvind Karthik,High Performance ML Systems,"HPC,Machine Learning,Optimization",Manojit Ghose,"ML-Based Application Development, High-Performance Computing",Panel-3
+2201174,Sai Yashwant Gantasala,Smart Grid Optimization,"Smart Grid,EVs,Optimization",Nilotpal Chakraborty,"Smart Grid Optimization, UAVs, AI & Blockchain for Cyber-Physical Systems, Quantum Annealing, Digital Twins",Panel-2
+2201175,Sanchayan Saha,Computer Vision Framework,"Computer Vision,Image Processing",Nilkanta Sahu,"Computer Vision, Image Processing, Application Development",Panel-5
+2201176,Sankalp Gupta,IoT Security Systems,"IoT,Security,Software Engineering",Angshuman Jana,"Software Engineering, Software Security, IoT Security, Deep Learning, Blockchain, Application Development (Web/App)",Panel-2
+2201177,Sanskar Sehra,Blockchain Security Solutions,"Blockchain,Security,Cryptography",Subhasish Dhal,"Deep Learning, Information Security, Blockchain, Brain-Computer Interface, Quantum Cryptography, Application Development",Panel-2
+2201179,sarthak,UAV-Based Grid Monitoring,"UAV,Smart Grid,Monitoring",Nilotpal Chakraborty,"Smart Grid Optimization, UAVs, AI & Blockchain for Cyber-Physical Systems, Quantum Annealing, Digital Twins",Panel-2
+2201181,Saumya Kala,Deep Learning Security,"Deep Learning,Security,AI",Subhasish Dhal,"Deep Learning, Information Security, Blockchain, Brain-Computer Interface, Quantum Cryptography, Application Development",Panel-2
+2201184,SHAURYA MANI TRIPATHI,Graph Algorithm Optimization,"Graph Theory,Algorithms",Pawan K. Mishra,"Algorithms, Geometry, Graph Theory, Approximation Algorithms",Panel-3
+2201187,Shresth Mantry,Secure Software Framework,"Software Engineering,Security",Angshuman Jana,"Software Engineering, Software Security, IoT Security, Deep Learning, Blockchain, Application Development (Web/App)",Panel-2
+2201188,Shripad Waikar,Social Network Analytics,"Social Networks,Data Analysis",Rohit Tripathi,"Social Network Analysis, Application Development",Panel-6
+2201189,Shruti,ML in Drug Discovery,"ML,Healthcare,Drug Discovery",Debashree Devi,"Machine Learning, AI, Class Imbalance, Deep Learning for COVID-19 Detection, ML-based Drug Discovery",Panel-4
+2201191,Siddhant Gond,IoT Security Analysis,"IoT,Security,ML",Rakesh Matam,"IoT, IoT Security, Security of ML Systems, Application Development",Panel-1
+2201192,Siddharth Singh,Healthcare ML Applications,"Healthcare,ML,AI",Debashree Devi,"Machine Learning, AI, Class Imbalance, Deep Learning for COVID-19 Detection, ML-based Drug Discovery",Panel-4
+2201194,Aman Singh,Pattern Recognition System,"Pattern Recognition,ML",Parashjyoti Borah,"Machine Learning Algorithms, Deep Learning Applications",Panel-4
+2201195,SMRITI TIWARI,Social Media Analysis Platform,"Social Networks,Analytics",Rohit Tripathi,"Social Network Analysis, Application Development",Panel-6
+2201196,Snehanshu Pal,Document Processing ML,"Document Analysis,ML,NLP",Kaustuv Nag,"Machine Learning, Deep Learning, Computational Intelligence, Android App Dev, Text Summarization, Web Dev, Language Translation",Panel-5
+2201197,Solanki Dharak Deepak,Deep Learning Patterns,"Deep Learning,Pattern Recognition",Parashjyoti Borah,"Machine Learning Algorithms, Deep Learning Applications",Panel-4
+2201200,Souradip Saha,Secure IoT Framework,"IoT,Security,Engineering",Angshuman Jana,"Software Engineering, Software Security, IoT Security, Deep Learning, Blockchain, Application Development (Web/App)",Panel-2
+2201201,Sreejita Das,ML Application Development,"ML,App Development",Kaustuv Nag,"Machine Learning, Deep Learning, Computational Intelligence, Android App Dev, Text Summarization, Web Dev, Language Translation",Panel-5
+2201202,Sridhar Tuli,Algorithm Implementation,"Algorithms,Graph Theory",Pawan K. Mishra,"Algorithms, Geometry, Graph Theory, Approximation Algorithms",Panel-3
+2201206,Sudipto Ray,Real-Time Systems Design,"Real-Time Systems,Scheduling",Sanjay Moulik,Scheduling Algorithms for Real-Time Systems,Panel-3
+2201207,Sumit,Android App Development,"Mobile Dev,ML,Android",Kaustuv Nag,"Machine Learning, Deep Learning, Computational Intelligence, Android App Dev, Text Summarization, Web Dev, Language Translation",Panel-5
+2201209,Sumit Raj,Image Processing System,"Image Processing,Computer Vision",Nilkanta Sahu,"Computer Vision, Image Processing, Application Development",Panel-5
+2201210,Suraj Yadav,Cloud Security Framework,"Cloud Computing,Security",Ferdous A Barbhuiya,"Security in Cloud & IoT, Privacy-Preserving ML, Computer Vision, ML Applications in NLP/CV",Panel-6
+2201211,Sutirtha Mandal,Cloud Service Platform,"Cloud Computing,Serverless",Shubha Brata Nath,"Cloud Computing, Fog Computing, IoT, Serverless Computing, Application Development",Panel-1
+2201212,Swyam Sharma,Network Optimization Tools,"Networks,SDN,Optimization",Radhika Sukapuram,"Optimization & ML in Networks, Mobile Edge Computing, Network Function Virtualization, SDN",Panel-1
+2201213,Tamma Satya Pranav,ML Document Analysis,"Document Analysis,ML,NLP",Kaustuv Nag,"Machine Learning, Deep Learning, Computational Intelligence, Android App Dev, Text Summarization, Web Dev, Language Translation",Panel-5
+2201214,TUSHAR,IoT Security Platform,"IoT,Security,ML",Rakesh Matam,"IoT, IoT Security, Security of ML Systems, Application Development",Panel-1
+2201216,Ubaid Abbas,Deep Learning Applications,"Deep Learning,ML",Kaustuv Nag,"Machine Learning, Deep Learning, Computational Intelligence, Android App Dev, Text Summarization, Web Dev, Language Translation",Panel-5
+2201217,Ujjwal Patel,Computer Vision System,"Computer Vision,Image Processing",Nilkanta Sahu,"Computer Vision, Image Processing, Application Development",Panel-5
+2201218,UJJWAL RATHORE,Signal Processing ML,"Signal Processing,ML",Moumita Roy,"Machine Learning, Deep Learning for Image/Signal Analysis",Panel-4
+2201219,Utkarsh,Image Analysis Platform,"Image Processing,Computer Vision",Nilkanta Sahu,"Computer Vision, Image Processing, Application Development",Panel-5
+2201221,Vadisetti Pranay Satvik Reddy,Knowledge Representation,"Knowledge Systems,AI",Upasana Talukdar,"Machine Learning, Brain-Computer Interface, Knowledge Representation & Reasoning",Panel-5
+2201225,VARTIKA,Medical Image Analysis,"Medical Imaging,Deep Learning",Moumita Roy,"Machine Learning, Deep Learning for Image/Signal Analysis",Panel-4
+2201229,Vijay Shankar Singh,Blockchain Applications,"Blockchain,Security",Subhasish Dhal,"Deep Learning, Information Security, Blockchain, Brain-Computer Interface, Quantum Cryptography, Application Development",Panel-2
+2201232,vikash kumar,UAV Communication Networks,"UAV,Networks,Communication",Krishnandu Hazra,"Wireless Networks, UAV Communications, AI & Deep Learning, Natural Language Processing",Panel-2
+2201244,Akshat Chincholikar,Network Optimization Research,"Networks,SDN,Optimization",Radhika Sukapuram,"Optimization & ML in Networks, Mobile Edge Computing, Network Function Virtualization, SDN",Panel-1
