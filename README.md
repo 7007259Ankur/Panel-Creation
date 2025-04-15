@@ -7,7 +7,7 @@
 **Supervisor**: Dr. Subhasish Dhal  
 **Date**: April 2025  
 **Degree**: B.Tech in Computer Science and Engineering  
-**Project Type**: Final Year Major Project
+**Project Type**: Pre-Final Year Major Project
 
 ---
 
@@ -89,9 +89,6 @@ This improves efficiency, reduces manual effort, and brings consistency to acade
 ## 🙌 Acknowledgements
 
 - Guided by **Dr. Subhasish Dhal**
-- Developed as part of final year project at **IIIT Guwahati**
-- Inspired and supported by the **FFE Mentorship Program** and mentor **Mr. Rajat Saxena (Google)**
+- Developed as part of pre-final year project at **IIIT Guwahati**
 
----
 
-## 📸 Website
